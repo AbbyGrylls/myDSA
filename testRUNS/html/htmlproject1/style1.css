@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.logo img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    left:60px;
+    top:30px;
+}
+header{
+    background-color: #1f2937;
+}
+nav ul{
+    display: flex;
+    margin-top: -45px;
+    margin-left: 1050px;
+    margin-right: 70px;
+}
+nav ul li{
+    display: flex;
+    margin: 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+dropdown {
+    background-color: #1f2937;
+    display: flex;
+    padding: 30px;
+}
+.imgJ img{
+    height: 150px;
+    width: 250px;
+    display: flex;
+    border: 3px solid rgb(207, 177, 212);
+    position: relative;
+    left:850px;
+    top:18px;
+    margin: 5px;
+}
+dropdown .text-main{
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    margin-left: -150px;
+    color: white;
+    margin-top: 75px;
+}
+dropdown .text-main h2{
+    position: relative;
+    display: flex;
+    margin-top: -40px;
+    scale: 120%;
+    font-size: 40px;
+    color: #f9faf8;
+    margin-right: 600px;
+    justify-content: center;
+    align-items: center;
+    left: -10px;
+}
+dropdown .text-main p{
+    position: relative;
+    display: flex;
+    margin-top: 15px;
+    scale: 100%;
+    margin-right: 500px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+dropdown .text-main a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    background-color: #3882f6;
+    margin-right: 780px;
+    top: 13px;
+    left:-10px;
+    border-radius: 5px;
+    padding: 7px;
+}

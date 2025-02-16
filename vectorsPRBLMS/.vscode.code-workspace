@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../algorithms.cpp"
+		},
+		{
+			"path": "../DAM"
+		},
+		{
+			"path": "../dsaAsignsSEM3cst"
+		},
+		{
+			"path": "../dsaAsignsSEM3it"
+		},
+		{
+			"path": "../hashingPRBLMS"
+		},
+		{
+			"path": "../HKRrankPRBLMS"
+		},
+		{
+			"path": "../listsPRBLMS"
+		},
+		{
+			"path": "../main.c"
+		},
+		{
+			"path": "../structures"
+		},
+		{
+			"path": "../testRUNS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testRUNS"
+	}
+}
