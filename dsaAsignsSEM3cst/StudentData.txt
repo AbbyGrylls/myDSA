@@ -1,9 +1,0 @@
-2
-Name:  absie
-Roll number: 25
-telephone number: 4455677
-Address: guntur
-Name:  sumana 
-Roll number: 32
-telephone number: 888393990
-Address: bankura
